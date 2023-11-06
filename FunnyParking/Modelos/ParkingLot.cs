@@ -30,7 +30,6 @@ namespace FunnyParking.Modelos
                 VanSpots.Add(new VanSpot());
             }
         }
-
         public int EmptyCarSpots()
         {
             return CarSpots.Count(spot => spot.IsEmpty());
