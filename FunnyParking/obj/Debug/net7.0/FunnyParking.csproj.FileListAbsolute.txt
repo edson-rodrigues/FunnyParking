@@ -1,0 +1,15 @@
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\bin\Debug\net7.0\FunnyParking.exe
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\bin\Debug\net7.0\FunnyParking.deps.json
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\bin\Debug\net7.0\FunnyParking.runtimeconfig.json
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\bin\Debug\net7.0\FunnyParking.dll
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\bin\Debug\net7.0\FunnyParking.pdb
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\FunnyParking.csproj.AssemblyReference.cache
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\FunnyParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\FunnyParking.AssemblyInfoInputs.cache
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\FunnyParking.AssemblyInfo.cs
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\FunnyParking.csproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\FunnyParking.dll
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\refint\FunnyParking.dll
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\FunnyParking.pdb
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\FunnyParking.genruntimeconfig.cache
+C:\Users\edson\source\repos\FunnyParking\FunnyParking\obj\Debug\net7.0\ref\FunnyParking.dll
