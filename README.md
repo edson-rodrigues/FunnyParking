@@ -17,6 +17,7 @@ Technnical challenge in a software developer mid level role.
 ## How to Run it
 
 You can download, extract and execute the app inside the Funny Parking folder.
+[Download the program](https://drive.google.com/file/d/1VMuxXwH5xgh_zCn9flMgmDU8aeONHxTD/view?usp=drive_link)
 
 *Note: Your antivirus might prevent you from execute the program*
 
